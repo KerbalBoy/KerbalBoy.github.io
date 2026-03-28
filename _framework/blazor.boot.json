@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Pomotest",
   "resources": {
-    "hash": "sha256-Icdv3Q/hMYMMZUrVh5oU3uy7cLXwSIpQpCRY4TV4Xgw=",
+    "hash": "sha256-lg2uFwyxuyb6qUEaKWNlu6QKhfcVBcvfnl73b0GJunI=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.umfjt743lt.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.4ijxm3lrf2.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -17,7 +17,7 @@
       "Microsoft.Extensions.Primitives.7jlusslff0.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.m0r9q61j4b.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.3eqovhfme2.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
-      "Pomotest.nf6apcuges.wasm": "Pomotest.wasm",
+      "Pomotest.tl54dmtjqw.wasm": "Pomotest.wasm",
       "System.Collections.Concurrent.10t4a4w8m8.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.020xe2o7av.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.zy5nuycig6.wasm": "System.Collections.wasm",
@@ -80,7 +80,7 @@
       "Microsoft.Extensions.Primitives.7jlusslff0.wasm": "sha256-g2QuS1hGsBw6enLEMYivhjZwl+iJm5tp+1wQa+B6dmU=",
       "Microsoft.JSInterop.m0r9q61j4b.wasm": "sha256-BvNOFNNTVx5BzU/7189RE6AP4IIpAbTlFUmX7WJS6dM=",
       "Microsoft.JSInterop.WebAssembly.3eqovhfme2.wasm": "sha256-m25C+4KzrQ8N9ocX5azt/nEZs1k9ugxXoGqSgWnO9gE=",
-      "Pomotest.nf6apcuges.wasm": "sha256-7XfiMA1HARaTjOyAksLGnwLaxZFRciFm7s6pVvwO+e8=",
+      "Pomotest.tl54dmtjqw.wasm": "sha256-YcoHKvhgdbURuQ+z5Huoj/63AMVemeGbyMjfXRPLZ54=",
       "System.Collections.Concurrent.10t4a4w8m8.wasm": "sha256-L7r3rphzURX/eAVh8FyqlaahNXllPc0Ntl59l4VVFl8=",
       "System.Collections.Immutable.020xe2o7av.wasm": "sha256-eCsZmQL2yHjWvMj2LWWCxgWZxCk4MhyJ46JVTxxWt5A=",
       "System.Collections.zy5nuycig6.wasm": "sha256-BZwnD7rvsGDIIP6XBJw6rezxde5kRhgTAFt6+ibHmmc=",
